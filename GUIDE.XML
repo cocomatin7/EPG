@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="ss1.sa">
-    <display-name lang="eng">english</display-name>
-    <url>https://guide.dstv.com</url>
-   </channel>
-  <channel id="ss2.sa">
-    <display-name lang="eng">english</display-name>
-    <url>https://guide.dstv.com</url>
-    </channel>
-  <channel id="ss3.sa">
-    <display-name lang="eng">english</display-name>
-    <url>https://guide.dstv.com</url>
-    </channel>
-  <channel id="ss4.sa">
-    <display-name lang="eng">english</display-name>
-    <url>https://guide.dstv.com</url>
+
