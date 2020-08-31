@@ -406,6 +406,6 @@
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
 
   </channel>
-  <channel id="SuperSports 3">
-    <display-name lang="ar">SuperSports 3</display-name>
-    <url>http://www.dstv.guide.com</url>
+  <channel id="MaishaMagicBongo">
+    <display-name lang="tz">MaishaMagicBongo</display-name>
+    <url>http://dstv.guide.com</url>
