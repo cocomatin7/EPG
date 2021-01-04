@@ -920,6 +920,11 @@
     <icon src="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/.png" />
     <url>http://www.zee5.com.EK</url>
   </channel>
+    <channel id="ZTV.ME">
+    <display-name lang="en">Zee TV ME</display-name>
+    <icon src="https://akamaividz.zee5.com/resources/0-9-zeetvapac/list/170x120/.png" />
+    <url>http://www.zee5.com.EK</url>
+  </channel>
   <channel id="KS1.KR">
     <display-name lang="ko">KBS 1</display-name>
     <url>http://www.SK B Korea</url>
