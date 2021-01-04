@@ -404,8 +404,144 @@
     <title lang="ar">سوبر فاميلي</title>
     <desc lang="ar">سوبر فاميلي هو مسلسل اجتماعي كوميدي سوري يتحدث عن مجموعة من العائلات السورية التي تربط بينها علاقات قرابة، ويتناول المسلسل في كل حلقتين موقف أو قضية تتعلق بعائلة معينة.</desc>
     <icon src="http://www.watania1.tn/sites/default/files/styles/tv1_program/public/img_emission/super-family.jpg?itok=APMpq4Sa" />
-
+  <channel id="NBS.UG">
+    <display-name lang="en">NBS</display-name>
+    <url>http://www.gotvafrica.com</url>
   </channel>
-  <channel id="Vuzu AMP">
-    <display-name lang="tz">Vuzu AMP</display-name>
-    <url>http://dstv.guide.com</url>
+  <channel id="TV1.MZ">
+    <display-name lang="en">TV Moçambique</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>
+  <channel id="K24.KE">
+    <display-name lang="en">K24</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>
+  <channel id="KAS.KE">
+    <display-name lang="en">Kass TV</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>
+  <channel id="KB1.Ke">
+    <display-name lang="en">KBC1</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>  
+  <channel id="KTN.KE">
+    <display-name lang="en">KTN</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>
+  <channel id="KNW.KE">
+    <display-name lang="en">KTN News</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>
+  <channel id="ZN1.ZM">
+    <display-name lang="en">ZNBC 1</display-name>
+    <url>http://www.gotvafrica.com</url>
+  </channel>
+  <channel id="SP1.PT">
+    <display-name lang="pt">SPORT TV1</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>
+  <channel id="SP2.PT">
+    <display-name lang="pt">SPORT TV2</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>
+  <channel id="SP3.PT">
+    <display-name lang="pt">SPORT TV3</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>
+  <channel id="SP4.PT">
+    <display-name lang="pt">SPORT TV4</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>
+  <channel id="SP5.PT">
+    <display-name lang="pt">SPORT TV5</display-name>
+    <url>http://www.sporttv.pt</url>
+  </channel>  
+  <channel id="FXL.Asia">
+    <display-name lang="en">FOX Life</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/501_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>  
+  <channel id="Fox.Asia">
+    <display-name lang="en">FOX</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/505_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="Bbw.News">
+    <display-name lang="en">BBC World News</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/701_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="AXN.Int">
+    <display-name lang="en">AXN</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="Ani.Asia">
+    <display-name lang="en">Animax</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="BOM.Asia">
+    <display-name lang="en">Boomerang</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/317_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="NWP.JP">
+    <display-name lang="en">NHK World Premium </display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/811_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="CIN.Asia">
+    <display-name lang="en">CinemaWorld</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/613_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="FXM.Asia">
+    <display-name lang="en">FOX Movies</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/622_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="FFM.Asia">
+    <display-name lang="en">FOX Family Movies</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/624_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="FAM.Asia">
+    <display-name lang="en">Fox Action Movies</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/625_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="FXX.Asia">
+    <display-name lang="en">FX</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/507_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="Fig.Int">
+    <display-name lang="en">Fight Sports</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/212_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="KBS.Int">
+    <display-name lang="en">KBS World</display-name>
+    <icon src="https://poster.starhubgo.com/Linear_channels2/815_1920x1080_HTV.png" />
+    <url>http://www.starhubtvplus.com.E</url>
+  </channel>
+  <channel id="BXT.US">
+    <display-name lang="en">beIN Sports Xtra</display-name>
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B01.th">
+    <display-name lang="en">beIN Sports 1 Asia</display-name>
+    <icon src="https://epg.beinsports.com/id_sports/BS1.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="B02.th">
+    <display-name lang="en">beIN Sports 2 Asia</display-name>
+    <icon src="https://epg.beinsports.com/id_sports/BS2.svg" />
+    <url>http://www.bein.net</url>
+  </channel>
+  <channel id="ANI.US">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+    
